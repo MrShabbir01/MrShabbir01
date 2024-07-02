@@ -1,18 +1,20 @@
 <h1>Hello there, I'm Shabbir! </h1>
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>🖥Networking Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>👨‍💻 Software development projects:</h2>
+<h2>⌨Software development projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Arduino Projects: </h2>
+<h2>💶Arduino Projects: </h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📜 Cirtifications: </h2>
 
 
 

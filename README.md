@@ -5,7 +5,7 @@
 - <b>Campus area network design project:</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Simple client server chat room:(python)</b>
+- <b>Simple client server chat room(python)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 

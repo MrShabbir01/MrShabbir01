@@ -10,11 +10,11 @@
 
 
 <h2>⌨Software development projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Hostel management system</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>💶Arduino Projects: </h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Smart water tank design</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📜 Cirtifications: </h2>

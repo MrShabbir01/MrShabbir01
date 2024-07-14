@@ -6,7 +6,7 @@
   - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
 
 - <b>Simple client server chat room(python)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
 
 
 <h2>⌨Software development projects:</h2>

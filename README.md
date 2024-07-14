@@ -11,20 +11,20 @@
 
 <h2>⌨Software development projects:</h2>
 - <b>Hostel management system</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [HMS]()
 
 <h2>💶Arduino Projects: </h2>
 - <b>Smart water tank design</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a smart water tank in arduino]()
 
-<h2>📜 Cirtifications: </h2>
+<h2>📜Trainings & Cirtifications: </h2>
 
 
 
 
 <h2>📺 Project explaination videos: </h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- []()
 
 <h2> 🤳 Connect with me:</h2>
 

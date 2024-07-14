@@ -3,7 +3,7 @@
 <h2>🖥Networking Projects:</h2>
 
 - <b>Campus area network design project:</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
 
 - <b>Simple client server chat room(python)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

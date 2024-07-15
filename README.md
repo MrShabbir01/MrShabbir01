@@ -10,8 +10,8 @@
 
 
 <h2>⌨Software development projects:</h2>
-- <b>Hostel management system</b>
-  - [HMS]()
+- <b>Hostel Management System</b>
+  - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
 
 <h2>💶Arduino Projects: </h2>
 - <b>Smart water tank design</b>

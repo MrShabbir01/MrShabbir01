@@ -18,24 +18,12 @@
 - <b>Smart water tank design</b>
   - [Creating a smart water tank in arduino]()
 
-<h2>📜Trainings & Cirtifications: </h2>
-
-
-
-
-<h2>📺 Project explaination videos: </h2>
-
-- []()
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com
+[linkedin]: www.linkedin.com/in/shabbirmridha
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

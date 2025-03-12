@@ -15,8 +15,9 @@
   - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
 
 <h2>💶Arduino Projects: </h2>
+
 - <b>Smart water tank design</b>
-  - [Creating a smart water tank in arduino]()
+  - [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-)
 
 
 <h2> 🤳 Connect with me:</h2>

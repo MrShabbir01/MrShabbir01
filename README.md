@@ -5,7 +5,7 @@
 - <b>Campus area network design project:</b>
   - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
 
-- <b>Simple client server chat room(python)</b>
+- <b>Simple client server chat room(Python)</b>
   - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
 
 

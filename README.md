@@ -15,7 +15,7 @@
   - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
 
 
-<h2>🖥Quality assurence:</h2>
+<h2>⌨Quality assurence:</h2>
 
 - <b>Examples of Defect reports:</b>
   - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)

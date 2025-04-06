@@ -21,10 +21,9 @@
   - [Desktop and Mobile application report examples](https://github.com/MrShabbir01/Bug-reports-in-Jira)
 
 - <b>Examples of Documententation </b>
-  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
-  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
-  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
-  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+  - [Sample of Quality Report](https://github.com/MrShabbir01)
+  - [Sample of Test Survey](https://github.com/MrShabbir01)
+  - [Simple of Acceptence sheet](https://github.com/MrShabbir01)
 
 
 <h2>💶Arduino Projects: </h2>

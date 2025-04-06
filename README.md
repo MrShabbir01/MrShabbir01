@@ -14,6 +14,19 @@
 - <b>Hostel Management System</b>
   - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
 
+
+<h2>🖥Quality assurence:</h2>
+
+- <b>Examples of Defect reports:</b>
+  - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
+
+- <b>Examples of Documententation </b>
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+
+
 <h2>💶Arduino Projects: </h2>
 
 - <b>Smart water tank design</b>

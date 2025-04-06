@@ -18,7 +18,7 @@
 <h2>⌨Quality assurence:</h2>
 
 - <b>Examples of Defect reports:</b>
-  - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
+  - [Desktop and Mobile application report examples](https://github.com/MrShabbir01/Bug-reports-in-Jira)
 
 - <b>Examples of Documententation </b>
   - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)

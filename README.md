@@ -7,7 +7,7 @@
 
 - <b>Examples of Documentation </b>
   - [Sample of Quality Report](https://github.com/MrShabbir01)
-  - [Sample of Test Survey](https://github.com/MrShabbir01)
+  - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
 
 <h2>🖥 Networking Projects</h2>

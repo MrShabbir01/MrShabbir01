@@ -1,5 +1,15 @@
 <h1>Hello there, I'm Shabbir! </h1>
 
+<h2> ⌨ Quality Assurance</h2>
+
+- <b>Examples of Defect reports:</b>
+  - [Desktop and Mobile application report examples](https://github.com/MrShabbir01/Bug-reports-in-Jira)
+
+- <b>Examples of Documentation </b>
+  - [Sample of Quality Report](https://github.com/MrShabbir01)
+  - [Sample of Test Survey](https://github.com/MrShabbir01)
+  - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
+
 <h2>🖥 Networking Projects</h2>
 
 - <b>Campus area network design project:</b>
@@ -19,16 +29,6 @@
 
 - <b>Smart water tank design</b>
   - [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-)
-
-<h2> ⌨ Quality Assurance</h2>
-
-- <b>Examples of Defect reports:</b>
-  - [Desktop and Mobile application report examples](https://github.com/MrShabbir01/Bug-reports-in-Jira)
-
-- <b>Examples of Documentation </b>
-  - [Sample of Quality Report](https://github.com/MrShabbir01)
-  - [Sample of Test Survey](https://github.com/MrShabbir01)
-  - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
 
 
 <h2> 🤳 Connect with me:</h2>

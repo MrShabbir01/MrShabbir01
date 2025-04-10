@@ -6,7 +6,7 @@
   - [Desktop and Mobile application report examples](https://github.com/MrShabbir01/Bug-reports-in-Jira)
 
 - <b>Examples of Documentation </b>
-  - [Sample of Quality Report](https://github.com/MrShabbir01)
+  - [Sample of Quality Report](https://github.com/MrShabbir01/Quality-Report)
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
 
@@ -36,17 +36,3 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/shabbirmridha
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...

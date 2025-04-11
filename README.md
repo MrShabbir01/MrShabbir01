@@ -26,7 +26,7 @@ Skills & Tools:
 
 Eager to apply analytical skills and attention to detail to ensure software functionality, performance, and reliability. Passionate about learning new testing tools, improving processes, and collaborating with teams to enhance product quality and user experience.
 
-<h2> ⌨ Quality Assurance</h2>
+<h2> 🔍 Quality Assurance</h2>
 
 - <b>Defect report:</b>
   - [Desktop and Mobile Application Report Sample](https://github.com/MrShabbir01/Bug-reports-in-Jira)

@@ -1,8 +1,9 @@
 <h1>Hello there, I'm Shabbir! </h1>
+Passionate About Building Quality Tech Solutions | Driven to improve systems, processes & user experiences
 
 ## About Me
 
-Aspiring Functional Quality Assurance Tester with internship experience in manual testing, test case execution, and defect reporting. Familiar with quality assurance methodologies, SDLC, and functional testing processes.
+Detail-oriented and analytical IT professional with hands-on experience in software testing, process documentation, and cross-functional collaboration. Comfortable working across web, desktop, and mobile platforms, with a strong understanding of SDLC, functional testing, and API validation. I enjoy translating complex requirements into actionable solutions, improving workflows, and contributing to the delivery of high-quality products.
 
 Skills & Tools:
 
@@ -24,7 +25,7 @@ Skills & Tools:
 
 ✔ Database – SQL, NoSQL
 
-Eager to apply analytical skills and attention to detail to ensure software functionality, performance, and reliability. Passionate about learning new testing tools, improving processes, and collaborating with teams to enhance product quality and user experience.
+Motivated by challenges and continuous learning, I’m passionate about solving problems, enhancing team productivity, and delivering value through technology.
 
 <h2> 🔍 Quality Assurance</h2>
 

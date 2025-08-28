@@ -73,17 +73,17 @@ A personal project simulating enterprise-style IT infrastructure and services.
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
 
-<h2>⌨ Software development projects</h2>
+<h2>⌨ Software Development</h2>
 
   - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
   
-<h2>🖥 Networking Projects</h2>
+<h2>🖥 Networking</h2>
 
   - <b> [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network) </b>
 
   - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
 
-<h2>💶 Arduino Projects: </h2>
+<h2>💶 Arduino: </h2>
 
   - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
 

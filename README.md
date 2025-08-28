@@ -1,33 +1,69 @@
 <h1>Hello there, I'm Shabbir! </h1>
-Passionate About Building Quality Tech Solutions | Driven to improve systems, processes & user experiences
 
-## About Me
+**IT & Network Support | Linux System Administration | Aspiring Network Engineer | Cybersecurity Enthusiast**  
 
-Detail-oriented and analytical IT professional with hands-on experience in software testing, process documentation, and cross-functional collaboration. Comfortable working across web, desktop, and mobile platforms, with a strong understanding of SDLC, functional testing, and API validation. I enjoy translating complex requirements into actionable solutions, improving workflows, and contributing to the delivery of high-quality products.
+🌐 Passionate about building secure, scalable, and efficient IT infrastructures.  
+⚙️ Experienced in networking, Linux administration, virtualization, cloud, and software quality assurance.  
+🔒 Currently exploring advanced topics in **network engineering, server security, and cybersecurity**.  
 
-Skills & Tools:
+---
 
-✔ Bug Tracking & Test Management: Jira, TestRail
+## 🛠️ Skills & Technologies  
 
-✔ Test Planning & Execution: Test plans, test cases, test suites
+### Networking & Infrastructure  
+- Router & Switch Configuration | LAN/WAN Troubleshooting  
+- IP Addressing & Subnetting (FLSM, VLSM)  
+- Windows Firewall | VPN Configuration  
+- Device Monitoring & Troubleshooting  
+- Domain & DNS Management | Cloudflare  
 
-✔ Application Testing: Web, Android, desktop
+### Linux System Administration  
+- Ubuntu server administration  
+- User & permission management  
+- Service configuration & process monitoring  
+- SSH & CLI-based system management  
+- Storage management (Samba/NFS)  
+- Server hardening basics  
 
-✔ API Testing: Postman, API validations
+### Virtualization & Containers  
+- Hypervisors: VMware, VirtualBox  
+- Virtual Machines (VMs)  
+- Docker & Containerized Environments  
 
-✔ Cloud Services: AWS, Google Cloud, Amazon Cloud
+### Cloud Platforms  
+- Amazon Web Services (AWS)  
+- Google Cloud Platform (GCP)  
 
-✔ Virtualization & Networking: VirtualBox, VPN, DevTools
+### Cybersecurity Foundations  
+- Firewall Rule Management  
+- Secure Access & VPNs  
+- Cloud Security Concepts  
 
-✔ Test Documentation: Quality reports, test summaries, acceptance sheets
+### Databases  
+- SQL & NoSQL  
 
-✔ SDLC & Testing Models: Waterfall, Iterative
+### QA & Tools (Supporting Skills)  
+- Manual & Functional Testing | Regression & Smoke Testing  
+- API Testing (Postman, REST APIs)  
+- Test Management: Jira, TestRail  
+- Browser DevTools  
+- Documentation & Reporting  
+---
 
-✔ Database – SQL, NoSQL
+## Projects  
+<h2>🖥 Home Server Lab (Ubuntu) </h2>
+A personal project simulating enterprise-style IT infrastructure and services.  
 
-Motivated by challenges and continuous learning, I’m passionate about solving problems, enhancing team productivity, and delivering value through technology.
+**Features Implemented:**  
+- **Linux-based Game Server Hosting**  
+- **Network Storage & Drive (Samba/NFS)**  
+- **Plex Media Server** for media streaming  
+- **User & Access Management** (Linux permissions, groups)  
+- **Firewall Rules & Port Forwarding** for secure LAN access  
 
-<h2> 🔍 Quality Assurance</h2>
+**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, VMware, VirtualBox, Router Configurations.  
+
+<h2>🔍 Quality Assurance</h2>
 
 - <b>Defect report:</b>
   - [Desktop and Mobile Application Report Sample](https://github.com/MrShabbir01/Bug-reports-in-Jira)
@@ -39,21 +75,17 @@ Motivated by challenges and continuous learning, I’m passionate about solving 
 
 <h2>⌨ Software development projects</h2>
 
-- <b>Hostel Management System</b>
-  - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
+  - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
   
 <h2>🖥 Networking Projects</h2>
 
-- <b>Campus area network design project:</b>
-  - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
+  - <b> [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network) </b>
 
-- <b>Simple client server chat room (Python)</b>
-  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
+  - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
 
 <h2>💶 Arduino Projects: </h2>
 
-- <b>Smart water tank design</b>
-  - [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-)
+  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
 
 
 ## Contact

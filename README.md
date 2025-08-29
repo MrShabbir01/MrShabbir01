@@ -61,7 +61,7 @@ A personal project simulating enterprise-style IT infrastructure and services.
 - **User & Access Management** (Linux permissions, groups)  
 - **Firewall Rules & Port Forwarding** for secure LAN access  
 
-**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, VirtualBox, Router Configurations.  
+**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, Router Configurations.  
 
 <h2>🔍 Quality Assurance</h2>
 

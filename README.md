@@ -26,7 +26,7 @@
 - Server hardening basics  
 
 ### Virtualization & Containers  
-- Hypervisors: VMware, VirtualBox  
+- Hypervisors: Proxmox, VMware ESXi 
 - Virtual Machines (VMs)  
 - Docker & Containerized Environments  
 
@@ -61,7 +61,7 @@ A personal project simulating enterprise-style IT infrastructure and services.
 - **User & Access Management** (Linux permissions, groups)  
 - **Firewall Rules & Port Forwarding** for secure LAN access  
 
-**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, VMware, VirtualBox, Router Configurations.  
+**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, VirtualBox, Router Configurations.  
 
 <h2>🔍 Quality Assurance</h2>
 

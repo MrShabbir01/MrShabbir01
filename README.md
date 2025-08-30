@@ -90,5 +90,5 @@ A personal project simulating enterprise-style IT infrastructure and services.
 
 ## Contact
 
-- 📧 Email: [shabbir.mridha@hotmail.com](mailto:shabbir.mridha@hotmail.com)  
+- 📧 Email: [shabbir@mridha.top](mailto:shabbir@mridha.top)  
 - 💼 LinkedIn: [linkedin.com/in/shabbirmridha](https://linkedin.com/in/shabbirmridha)  

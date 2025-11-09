@@ -1,14 +1,19 @@
-<h1>Hello there, I'm Shabbir! </h1>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="IT & Network Support, Linux System Administration, Network Engineering, Cybersecurity">
+
+
+<h1>Shabbir Hossain Mridha </h1>
 
 **IT & Network Support | Linux System Administration | Aspiring Network Engineer | Cybersecurity Enthusiast**  
 
-🌐 Passionate about building secure, scalable, and efficient IT infrastructures.  
-⚙️ Experienced in networking, Linux administration, virtualization, cloud, and software quality assurance.  
-🔒 Currently exploring advanced topics in **network engineering, server security, and cybersecurity**.  
+Passionate about building secure, scalable, and efficient IT infrastructures.  
+Experienced in networking, Linux administration, virtualization, cloud, and software quality assurance.  
+Currently exploring advanced topics in **network engineering, server security, and cybersecurity**.  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## Skills & Technologies  
 
 ### Networking & Infrastructure  
 - Router & Switch Configuration | LAN/WAN Troubleshooting  
@@ -51,8 +56,8 @@
 ---
 
 ## Projects  
-<h2>🖥 Home Server Lab (Ubuntu) </h2>
-A personal project simulating enterprise-style IT infrastructure and services.  
+<h2>Home Server Lab (Ubuntu) </h2>
+<p>A personal project simulating enterprise-style IT infrastructure and services.  </p>
 
 **Features Implemented:**  
 - **Linux-based Game Server Hosting**  
@@ -63,7 +68,7 @@ A personal project simulating enterprise-style IT infrastructure and services.
 
 **Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, Router Configurations.  
 
-<h2>🔍 Quality Assurance</h2>
+<h2>Quality Assurance</h2>
 
 - <b>Defect report:</b>
   - [Desktop and Mobile Application Report Sample](https://github.com/MrShabbir01/Bug-reports-in-Jira)
@@ -71,19 +76,19 @@ A personal project simulating enterprise-style IT infrastructure and services.
 - <b>Documentation</b>
   - [Sample of Quality Report](https://github.com/MrShabbir01/Quality-Report)
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
-  - [Sample of Acceptence sheet](https://github.com/MrShabbir01)
+  - Acceptence sheet
 
-<h2>⌨ Software Development</h2>
+<h2>Software Development</h2>
 
   - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
   
-<h2>🖥 Networking</h2>
+<h2>Networking</h2>
 
   - <b> [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network) </b>
 
   - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
 
-<h2>💶 Arduino: </h2>
+<h2>Arduino: </h2>
 
   - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
 

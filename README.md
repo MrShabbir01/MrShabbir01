@@ -5,7 +5,7 @@
 
 <h1>Shabbir Hossain Mridha </h1>
 
-**IT & Network Support | Linux System Administration | Aspiring Network Engineer | Cybersecurity Enthusiast**  
+**IT & Network Support | Linux System Administration | Aspiring Network Engineer**  
 
 Passionate about building secure, scalable, and efficient IT infrastructures.  
 Experienced in networking, Linux administration, virtualization, cloud, and software quality assurance.  

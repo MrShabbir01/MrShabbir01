@@ -70,15 +70,21 @@ Experienced in troubleshooting complex systems, identifying root causes, documen
   - [Sample of Quality Report](https://github.com/MrShabbir01/Quality-Report)
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - Acceptence sheet
-  
-<h2>Home Server Lab (Ubuntu) </h2>
-<p>Personal infrastructure project demonstrating analytical troubleshooting and system validation skills. </p>
 
-**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, Router Configurations.  
+<h2>Arduino: </h2>
 
-<h2>Software Development</h2>
+  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
+
+ <h2>Software Development</h2>
 
   - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
+  
+<h2>Home Server Lab (Ubuntu) </h2>
+
+- [Self-hosted Game Server](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu)
+
+
+**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, Router Configurations.  
   
 <h2>Networking</h2>
 
@@ -86,9 +92,7 @@ Experienced in troubleshooting complex systems, identifying root causes, documen
 
   - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
 
-<h2>Arduino: </h2>
 
-  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
 
 
 ## Contact

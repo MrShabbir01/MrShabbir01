@@ -5,58 +5,24 @@
 
 <h1>Shabbir Hossain Mridha </h1>
 
-**Aspiring Software Quality Assurance Engineer | Manual Testing | API Testing | Defect Reporting**  
 
-Motivated Software Quality Assurance professional transitioning from IT Infrastructure and System Administration into Software Testing and Quality Assurance.
 
-Experienced in troubleshooting complex systems, identifying root causes, documenting issues, and ensuring service reliability. Currently focused on software quality practices including manual testing, test case design, defect reporting, API testing, and software development lifecycle (SDLC) processes. 
+Assistant IT Officer transitioning into Software Quality Assurance with hands-on experience in manual testing through structured QA training on a commercial web, Desktop and Android application.
 
 ---
 
-## Skills & Tools 
-
-### Software Quality Assurance
+## Core Skills
 - Manual Testing
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- User Acceptance Testing (UAT)
-- Test Case Design & Execution
-- Defect Lifecycle Management
-- Bug Reporting & Documentation
-- Requirement Analysis
-- SDLC & STLC Fundamentals
-
-### API Testing 
-- Postman 
-- REST APIs
-- Request & Response Validation
-- API Documentation Testing
-
-### Test Management & Collaboration
+- Functional, Regression & Smoke Testing
+- Exploratory Testing
+- API Testing (Postman)
 - Jira
-- TestRail
-- Bug Tracking & Reporting
 - Test Documentation
-- Agile/Scrum Fundamentals
+- SDLC & STLC
+- Agile Scrum
 
-### Database Testing
-- SQL Queries
-- Data Validation
-- Basic Database Verification
-
-### Web Testing Tools
-- Browser DevTools
-- Cross-Browser Testing Concepts
-- Responsive Testing
-
-### Technical Background
-- Linux Administration
-- Networking Fundamentals
-- Virtualization (Proxmox, VMware ESXi)
-- Docker
-- AWS Fundamentals
+## Currently Learning
+- Selenium WebDriver (Automation Testing)
 ---
 
 ## Projects  

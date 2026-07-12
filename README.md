@@ -7,7 +7,7 @@
 
 
 
-Assistant IT Officer transitioning into Software Quality Assurance with hands-on experience in manual testing through structured QA training on a commercial web, Desktop and Android application.
+Assistant IT Officer transitioning into Software Quality Assurance with hands-on experience in manual testing through structured QA training on a commercial Web, Desktop and Android application.
 
 ---
 

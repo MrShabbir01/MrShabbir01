@@ -37,25 +37,12 @@ Assistant IT Officer transitioning into Software Quality Assurance with hands-on
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - Acceptence sheet
 
-<h2>Arduino: </h2>
-
-  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
-
- <h2>Software Development</h2>
-
+<h2>Other Projects: </h2>
+  
+  - <b> [Home Server Lab (Ubuntu)](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu) </b>
   - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
-  
-<h2>Home Server Lab (Ubuntu) </h2>
-
-- [Self-hosted Game Server](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu)
-
-
-**Technologies Used:** Ubuntu Server, Samba/NFS, Docker, Plex, SSH, Proxmox, VMware ESXi, Router Configurations.  
-  
-<h2>Networking</h2>
-
+  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
   - <b> [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network) </b>
-
   - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
 
 

@@ -9,8 +9,6 @@
 
 Assistant IT Officer transitioning into Software Quality Assurance with hands-on experience in manual testing through structured QA training on a commercial Web, Desktop and Android application.
 
----
-
 ## Core Skills
 - Manual Testing
 - Functional, Regression & Smoke Testing
@@ -20,12 +18,7 @@ Assistant IT Officer transitioning into Software Quality Assurance with hands-on
 - Test Documentation
 - SDLC & STLC
 - Agile Scrum
-
-## Currently Learning
-- Selenium WebDriver (Automation Testing)
----
-
-## Projects  
+- Selenium WebDriver (Automation Testing) <i>Currently learning</i>
 
 <h2>QA Portfolio</h2>
 
@@ -37,18 +30,18 @@ Assistant IT Officer transitioning into Software Quality Assurance with hands-on
   - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
   - Acceptence sheet
 
-<h2>Other Projects: </h2>
+<h3>Other Projects: </h3>
   
-  - <b> [Home Server Lab (Ubuntu)](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu) </b>
-  - <b> [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System) </b>
-  - <b> [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-) </b>
-  - <b> [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network) </b>
-  - <b> [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.) </b>
+  - [Home Server Lab (Ubuntu)](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu)
+  - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)
+  - [Smart water tank design](https://github.com/MrShabbir01/Automated-Water-system-Arduino-Uno-)
+  - [Campus area network in packet tracer](https://github.com/MrShabbir01/Campus-Area-Network)
+  - [Simple chatroom using Socket programming](https://github.com/MrShabbir01/Client-server-chatroom.)
 
 
 
 
 ## Contact
 
-- 📧 Email: [shabbir@mridha.top](mailto:shabbir@mridha.top)  
+- 📧 Email: [Shabbir.Mridha@hotmail.com](mailto:shabbir.mridha@hotmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shabbirmridha](https://linkedin.com/in/shabbirmridha)  

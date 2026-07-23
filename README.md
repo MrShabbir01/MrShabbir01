@@ -20,17 +20,11 @@ Assistant IT Officer transitioning into Software Quality Assurance with hands-on
 - Agile Scrum
 - Selenium WebDriver (Automation Testing) <i>Currently learning</i>
 
-<h2>QA Portfolio</h2>
+## QA Portfolio
 
-- <b>Defect report:</b>
-  - [Desktop and Mobile Application Report Sample](https://github.com/MrShabbir01/Bug-reports-in-Jira)
+- [Software Quality Assurance Portfolio](https://github.com/MrShabbir01/QA-Portfolio)
 
-- <b>Documentation</b>
-  - [Sample of Quality Report](https://github.com/MrShabbir01/Quality-Report)
-  - [Sample of Test Survey](https://github.com/MrShabbir01/Test-Survey.git)
-  - Acceptence sheet
-
-<h3>Other Projects: </h3>
+## Other Projects:
   
   - [Home Server Lab (Ubuntu)](https://github.com/MrShabbir01/Self-Hosted-game-servers-Ubuntu)
   - [Hostel Management System (PHP)](https://github.com/MrShabbir01/Hostel-Management-System)

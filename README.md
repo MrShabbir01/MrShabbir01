@@ -1,24 +1,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="IT & Network Support, Linux System Administration, Network Engineering, Cybersecurity">
+<meta name="description" content=""Entry-Level SQA Professional specializing in manual testing, Playwright UI automation, API testing, and software quality assurance">
 
 
 <h1>Shabbir Hossain Mridha </h1>
 
-
-
-Assistant IT Officer transitioning into Software Quality Assurance with hands-on experience in manual testing through structured QA training on a commercial Web, Desktop and Android application.
+Entry-level SQA professional with hands-on manual testing experience gained through structured QA training on a commercial web, desktop, and Android application.
 
 ## Core Skills
-- Manual Testing
-- Functional, Regression & Smoke Testing
-- Exploratory Testing
-- API Testing (Postman)
-- Jira
-- Test Documentation
-- SDLC & STLC
-- Agile Scrum
-- Selenium WebDriver (Automation Testing) <i>Currently learning</i>
+- Manual Testing: Functional, Regression, Smoke, Exploratory Testing
+- UI Automation: Playwright; Selenium WebDriver
+- API Testing: Postman, ReqRes API, Newman
+- Defect Management: Jira, Bug Reporting, Defect Tracking
+- QA Documentation: Test Surveys, Acceptance Sheets, Quality Reports
+- Testing Fundamentals: SDLC, STLC, Agile/Scrum
 
 ## QA Portfolio
 
